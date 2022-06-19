@@ -1,0 +1,2442 @@
+[
+    {
+        "bha_no": "1",
+        "date": "2018-09-06T00:00:00",
+        "desc": "26”R.BIT+ B.SUB + 6 JTs 9-1/2” DCs+ X.O.S + 3 JTs 8-1/2” DCs + X.O.S",
+        "index": "Table 3",
+        "length": "84.73",
+        "weight": ""
+    },
+    {
+        "bha_no": "1",
+        "date": "2018-09-06T00:00:00",
+        "desc": "26”R.BIT+ B.SUB + 6 JTs 9-1/2” DCs+ X.O.S + 3 JTs 8-1/2” DCs + X.O.S",
+        "index": "Table 4",
+        "length": "84.73",
+        "weight": ""
+    },
+    {
+        "bha_no": "1",
+        "date": "2018-09-07T00:00:00",
+        "desc": "26”R.BIT+ B.SUB + 6 JTs 9-1/2” DCs+ X.O.S + 3 JTs 8-1/2” DCs + X.O.S",
+        "index": "Table 5",
+        "length": "84.73",
+        "weight": ""
+    },
+    {
+        "bha_no": "1",
+        "date": "2018-09-07T00:00:00",
+        "desc": "26”R.BIT+ B.SUB + 6 JTs 9-1/2” DCs+ X.O.S + 3 JTs 8-1/2” DCs + X.O.S",
+        "index": "Table 6",
+        "length": "84.73",
+        "weight": ""
+    },
+    {
+        "bha_no": "2",
+        "date": "2018-09-08T00:00:00",
+        "desc": "26”R.BIT+ B.SUB +26”REAMER+4JTs 9-1/2” DC+ X.O.S",
+        "index": "Table 7",
+        "length": "40.63",
+        "weight": ""
+    },
+    {
+        "bha_no": "2",
+        "date": "2018-09-08T00:00:00",
+        "desc": "26”R.BIT+ B.SUB +26”REAMER+4JTs 9-1/2” DC+ X.O.S",
+        "index": "Table 8",
+        "length": "40.63",
+        "weight": ""
+    },
+    {
+        "bha_no": "2",
+        "date": "2018-09-12T00:00:00",
+        "desc": "17-1/2” R.BIT +  B.SUB + 9 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 13",
+        "length": "112.74",
+        "weight": ""
+    },
+    {
+        "bha_no": "2",
+        "date": "2018-09-12T00:00:00",
+        "desc": "17-1/2” R.BIT +  B.SUB + 9 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 14",
+        "length": "112.74",
+        "weight": ""
+    },
+    {
+        "bha_no": "3",
+        "date": "2018-09-13T00:00:00",
+        "desc": "17-1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 15",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "3",
+        "date": "2018-09-13T00:00:00",
+        "desc": "17-1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 16",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "3",
+        "date": "2018-09-14T00:00:00",
+        "desc": "17-1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 17",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "3",
+        "date": "2018-09-14T00:00:00",
+        "desc": "17-1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 18",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-15T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 19",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-15T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 20",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-16T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 21",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-16T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 22",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-17T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 23",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-17T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 24",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-18T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 25",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-18T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 26",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-19T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 27",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "4",
+        "date": "2018-09-19T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 10 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 28",
+        "length": "139.04",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-20T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 29",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-20T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 30",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-21T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 31",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-21T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 32",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-22T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 33",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-23T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 34",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-23T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 35",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-24T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 36",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-25T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 37",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-26T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 38",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-27T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 39",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-28T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 40",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-28T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 41",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "5",
+        "date": "2018-09-29T00:00:00",
+        "desc": "17-1/2” PDC BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 42",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-09-30T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 43",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-09-30T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 44",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-01T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 45",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-02T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 46",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-03T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 47",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-03T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 48",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-04T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 49",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-05T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 50",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "6",
+        "date": "2018-10-05T00:00:00",
+        "desc": "17 1/2” R.BIT +  17-7/16” NEAR BIT STAB+ 1 JT 9-1/2” SHORT COLLAR +17-3/8” STAB +  1 JT 9-1/2” DC +17-3/8” STAB + 7 JTs 9-1/2” DC+ X.O.S + 3 JTs 8-1/2” DC + X.O.S",
+        "index": "Table 51",
+        "length": "110.88",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-10T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8-1/2 DC+8” D.JAR+ 3 JTS 8-1/2”DC + X.O.S",
+        "index": "Table 60",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-10T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8-1/2 DC+8” D.JAR+ 3 JTS 8-1/2”DC + X.O.S",
+        "index": "Table 61",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-11T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8 DC+8” D.JAR & + 3 JTS 8”DC + X.O.S",
+        "index": "Table 62",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-11T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8 DC+8” D.JAR & + 3 JTS 8”DC + X.O.S",
+        "index": "Table 63",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-12T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8 DC+8” D.JAR & + 3 JTS 8”DC + X.O.S",
+        "index": "Table 64",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-12T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 12 JTS 8 DC+8” D.JAR & + 3 JTS 8”DC + X.O.S",
+        "index": "Table 65",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-13T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 3 JTS 8 DC+X.O.S",
+        "index": "Table 66",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "7",
+        "date": "2018-10-13T00:00:00",
+        "desc": "12 1/4” R.BIT + F.SUB+ 3 JTS 8 DC+X.O.S",
+        "index": "Table 67",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-11T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 103",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-11T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 104",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-12T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 105",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-12T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 106",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-13T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 107",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-13T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 108",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "8",
+        "date": "2018-11-14T00:00:00",
+        "desc": "12 1/4” R.BIT + 9 3/4” J.SUB + 8 1/2”B.SUB + 12 JT 8 1/2” D.C + 8 1/2” D.JAR+ 3 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 109",
+        "length": "146.99",
+        "weight": ""
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 110",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 111",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-16T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 112",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-17T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 113",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 114",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 115",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 116",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 117",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 118",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 119",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 120",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-21T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 121",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-21T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 122",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "9",
+        "date": "2018-11-22T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR +2 JT 8 1/2” D.C + X.O.S",
+        "index": "Table 123",
+        "length": "147.76",
+        "weight": "78.6"
+    },
+    {
+        "bha_no": "10",
+        "date": "2018-11-23T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 124",
+        "length": "120.94",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "10",
+        "date": "2018-11-23T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 125",
+        "length": "120.94",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "10",
+        "date": "2018-11-24T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 126",
+        "length": "120.94",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "10",
+        "date": "2018-11-24T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 127",
+        "length": "120.94",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "12",
+        "date": "2018-11-25T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  8” JAR & FLEX +2 JT 8 1/2” D.C X.O.S",
+        "index": "Table 128",
+        "length": "156.39",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "12",
+        "date": "2018-11-25T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C +  8” JAR & FLEX +2 JT 8 1/2” D.C X.O.S",
+        "index": "Table 129",
+        "length": "156.39",
+        "weight": "56.5"
+    },
+    {
+        "bha_no": "12",
+        "date": "2018-11-26T00:00:00",
+        "desc": "10-1/8” OVERSHOT + 1 JT 8” DC +8” JAR + FLEX +2 JT 8” DC + X.O.S",
+        "index": "Table 130",
+        "length": "37.08",
+        "weight": ""
+    },
+    {
+        "bha_no": "12",
+        "date": "2018-11-26T00:00:00",
+        "desc": "10-1/8” OVERSHOT + 1 JT 8” DC +8” JAR + FLEX +2 JT 8” DC + X.O.S",
+        "index": "Table 131",
+        "length": "37.08",
+        "weight": ""
+    },
+    {
+        "bha_no": "13",
+        "date": "2018-11-27T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +13 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 132",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "13",
+        "date": "2018-11-27T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +13 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 133",
+        "length": "",
+        "weight": ""
+    },
+    {
+        "bha_no": "13",
+        "date": "2018-11-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +7 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 134",
+        "length": "84.6",
+        "weight": ""
+    },
+    {
+        "bha_no": "13",
+        "date": "2018-11-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +7 JT 8 1/2” D.C +  X.O.S",
+        "index": "Table 135",
+        "length": "84.6",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-11-29T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 136",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-11-29T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 137",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-11-30T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 138",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-11-30T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 139",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-01T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 140",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-01T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 141",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-02T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 142",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-02T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 143",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-03T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 144",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-03T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 145",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-04T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 146",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-04T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 147",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-05T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 148",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-05T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 149",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-06T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 150",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-06T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 151",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-07T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 152",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-07T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 153",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-08T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 154",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-08T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 155",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-09T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 156",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-09T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 157",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-10T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 158",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-10T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 159",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-11T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 160",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-11T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 161",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-12T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 162",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-12T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 163",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-13T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 164",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-13T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 165",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-14T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 166",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-14T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 167",
+        "length": "156.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 168",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 169",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-16T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 170",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-17T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 171",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 172",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 173",
+        "length": "156.36",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 174",
+        "length": "156.91",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 175",
+        "length": "156.91",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 176",
+        "length": "156.91",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 177",
+        "length": "156.91",
+        "weight": ""
+    },
+    {
+        "bha_no": "14",
+        "date": "2018-12-21T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB +2 JT 8 1/2” D.C + 12 1/4” S.STAB +11 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 178",
+        "length": "156.91",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-22T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 179",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-22T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 180",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-23T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 181",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-24T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 182",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-24T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 183",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-25T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 184",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-25T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 185",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-26T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 186",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-26T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 187",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-27T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 188",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 189",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 190",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-29T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 191",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-29T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 192",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-30T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 193",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-30T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 194",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-31T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 195",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2018-12-31T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 196",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2019-01-01T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 197",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "15",
+        "date": "2019-01-01T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” B.SUB ++ 13 JT 8 1/2” D.C + 8 1/2” D.JAR+ 2 JT 8 1/2” D.C+ X.O.S",
+        "index": "Table 198",
+        "length": "155.35",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-08T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 210",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-08T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 211",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-09T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 212",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-09T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 213",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-10T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 214",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-11T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 215",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-12T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 216",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-13T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 217",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-13T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 218",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-14T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 219",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-14T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 220",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 221",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-15T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 222",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-16T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 223",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-16T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 224",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-17T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 225",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-17T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 226",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 227",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-18T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 228",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 229",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-19T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 230",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 231",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-20T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 232",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-21T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 233",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "16",
+        "date": "2019-01-21T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 234",
+        "length": "120.79",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-26T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 243",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-26T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 244",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-27T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 245",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-27T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 246",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 247",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "19",
+        "date": "2019-01-28T00:00:00",
+        "desc": "12 1/4” PDC BIT + 8 1/2” BIT SUB +2 JTs 8 1/2” DC + 12 1/4” S.STAB +7 JTs 8 1/2” DC + 8 1/2” D.JAR +3 JTs 8 1/2” DC + XOS",
+        "index": "Table 248",
+        "length": "170",
+        "weight": ""
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-04T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 261",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-05T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 262",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-05T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 263",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-06T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 264",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-06T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 265",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-07T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 266",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-07T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 267",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-08T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 268",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-08T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 269",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-09T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 270",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "20",
+        "date": "2019-02-09T00:00:00",
+        "desc": "8 3/8” PDC BIT+ 6 1/2” B.SUB +2 JT 6 1/2” D.C + 8 3/8” S.STAB +13 JT 6 1/2” D.C + 6 1/2” D.JAR +3 JT 6 1/2” D.C",
+        "index": "Table 271",
+        "length": "175.77",
+        "weight": "50"
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-12T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 277",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-12T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 278",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-13T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 279",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-14T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 280",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-14T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 281",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-15T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 282",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "21",
+        "date": "2019-02-15T00:00:00",
+        "desc": "8-3/8” R.BIT + BIT SUB + 15 jts 6-1/2” D.C+6-1/2” D.JAR + 3 jts 6-1/2” D.C",
+        "index": "Table 283",
+        "length": "174.01",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-16T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 284",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-16T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 285",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-17T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 286",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-18T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 287",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-19T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 288",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-19T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 289",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-20T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 290",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-20T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 291",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-21T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 292",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "22",
+        "date": "2019-02-21T00:00:00",
+        "desc": "5-7/8” B.BIT + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 293",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-22T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 294",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-22T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 295",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-23T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 296",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-23T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 297",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-24T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 298",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-24T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 299",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-25T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 300",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-26T00:00:00",
+        "desc": "5-7/8” J.MILL + J.SUB + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 301",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "23",
+        "date": "2019-02-27T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 302",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "24",
+        "date": "2019-02-28T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 303",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "24",
+        "date": "2019-03-01T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +24jts 4-3/4” D.C+4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 304",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "25",
+        "date": "2019-03-02T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8 S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 305",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "25",
+        "date": "2019-03-03T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8 S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 306",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "25",
+        "date": "2019-03-03T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8 S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 307",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "25",
+        "date": "2019-03-04T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8 S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 308",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "25",
+        "date": "2019-03-04T00:00:00",
+        "desc": "5-7/8 PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8 S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C",
+        "index": "Table 309",
+        "length": "253.19",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-05T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 310",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-06T00:00:00",
+        "desc": "5-7/8” J.MILL + 7” SCRAPPER +BIT SUB +6jts 4-3/4” D.C++ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 311",
+        "length": "1031.1",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-06T00:00:00",
+        "desc": "5-7/8” J.MILL + 7” SCRAPPER +BIT SUB +6jts 4-3/4” D.C++ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 312",
+        "length": "1031.1",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-07T00:00:00",
+        "desc": "5-7/8” J.MILL + 7” SCRAPPER +BIT SUB +6jts 4-3/4” D.C++ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 313",
+        "length": "1031.1",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-07T00:00:00",
+        "desc": "5-7/8” J.MILL + 7” SCRAPPER +BIT SUB +6jts 4-3/4” D.C++ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 314",
+        "length": "1031.1",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-03-08T00:00:00",
+        "desc": "7” DST TOOLS + 101 JT 3 1/2” DPs + X.O.S",
+        "index": "Table 315",
+        "length": "1016.3",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-03-09T00:00:00",
+        "desc": "7” DST TOOLS + 101 JT 3 1/2” DPs + X.O.S",
+        "index": "Table 316",
+        "length": "1016.3",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-03-09T00:00:00",
+        "desc": "7” DST TOOLS + 101 JT 3 1/2” DPs + X.O.S",
+        "index": "Table 317",
+        "length": "1016.3",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-10T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 318",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-10T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 319",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-10T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 320",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-11T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 321",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-11T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 322",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-11T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 323",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-12T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 324",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-12T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 325",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-13T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 326",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-13T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 327",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-14T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 328",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-14T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 329",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-15T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 330",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-15T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 331",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-16T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 332",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-16T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 333",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-17T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 334",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-17T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 335",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-18T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 336",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-19T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 337",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-19T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 338",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-20T00:00:00",
+        "desc": "FULL BORE DST TOOLS",
+        "index": "Table 339",
+        "length": "225.67",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-21T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 340",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-22T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 341",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "26",
+        "date": "2019-03-23T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 342",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-24T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 343",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "27",
+        "date": "2019-03-25T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 19jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 344",
+        "length": "1202.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-01T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 353",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-02T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 354",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-03T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 355",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-04T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 356",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-05T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 357",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-06T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 358",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-07T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 359",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-07T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 360",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-08T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 361",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-08T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 362",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-09T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 363",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-09T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 364",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-10T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 365",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-10T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 366",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-11T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 367",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-11T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 368",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-12T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 369",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-13T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 370",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-14T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 371",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-14T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 372",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-15T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 373",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-15T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 374",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-16T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 375",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-16T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 376",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-17T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 377",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-17T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 378",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-17T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 379",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "28",
+        "date": "2019-04-18T00:00:00",
+        "desc": "F.B.D.S.T TOOLs",
+        "index": "Table 380",
+        "length": "216.18",
+        "weight": ""
+    },
+    {
+        "bha_no": "29",
+        "date": "2019-04-20T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 382",
+        "length": "1297.7",
+        "weight": ""
+    },
+    {
+        "bha_no": "29",
+        "date": "2019-04-21T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 383",
+        "length": "1297.7",
+        "weight": ""
+    },
+    {
+        "bha_no": "29",
+        "date": "2019-04-22T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 384",
+        "length": "1297.7",
+        "weight": ""
+    },
+    {
+        "bha_no": "30",
+        "date": "2019-04-25T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 389",
+        "length": "1209",
+        "weight": ""
+    },
+    {
+        "bha_no": "30",
+        "date": "2019-04-25T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 390",
+        "length": "1209",
+        "weight": ""
+    },
+    {
+        "bha_no": "30",
+        "date": "2019-04-26T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 391",
+        "length": "1209",
+        "weight": ""
+    },
+    {
+        "bha_no": "30",
+        "date": "2019-04-26T00:00:00",
+        "desc": "5-7/8” PDC + BIT SUB +2jts 4-3/4” D.C+ 5-7/8” S.STAB+ 22Jts 4-3/4” D.C4-3/4” D.JAR + 3 jts 4-3/4” D.C+ 101jts 3 1/2” DPs + X.O.S",
+        "index": "Table 392",
+        "length": "1209",
+        "weight": ""
+    },
+    {
+        "bha_no": "31",
+        "date": "2019-04-29T00:00:00",
+        "desc": "5 7/8” R.BIT + 4 3/4” B.SUB + 24 JT4 3/4” D.C +  4 3/4” D.JAR + 3 JT 4 3/4”D.C + 108 JT 3 1/2” D.P + X.O.S",
+        "index": "Table 397",
+        "length": "255.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "31",
+        "date": "2019-04-30T00:00:00",
+        "desc": "5 7/8” R.BIT + 4 3/4” B.SUB + 24 JT4 3/4” D.C +  4 3/4” D.JAR + 3 JT 4 3/4”D.C + 108 JT 3 1/2” D.P + X.O.S",
+        "index": "Table 398",
+        "length": "255.9",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-01T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 399",
+        "length": "1441.5",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-02T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 400",
+        "length": "1441.5",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-03T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 401",
+        "length": "1441.5",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-03T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 402",
+        "length": "1441.5",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-04T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 403",
+        "length": "1441.5",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-05T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 404",
+        "length": "1441",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-05T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 405",
+        "length": "1441",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-06T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 406",
+        "length": "1441",
+        "weight": ""
+    },
+    {
+        "bha_no": "32",
+        "date": "2019-05-06T00:00:00",
+        "desc": "4 1/8” PDC BIT+3 1/8” B.SUB+27 JT3 1/8” D.C+15 JT 2 7/8” D.P+X.O.S+D.PIN+BIT SUB+2 JT 3 1/2” DP+4 3/4” D.JAR+106 JT 3 1/2” DP + X.O.S",
+        "index": "Table 407",
+        "length": "1441",
+        "weight": ""
+    }
+]

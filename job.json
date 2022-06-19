@@ -1,0 +1,14 @@
+[
+    {
+        "client": "ICOFC",
+        "dttm_release": "2019-05-12",
+        "dttm_spud": "2018-09-06T00:00:00",
+        "index": 0,
+        "job_type": "ODR",
+        "objective": "drilling",
+        "operator": "NDCO",
+        "rigNo": "NDC115",
+        "target_depth": "3727.5",
+        "target_form": "ASMARI"
+    }
+]
